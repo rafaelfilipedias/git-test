@@ -13,6 +13,7 @@ namespace git_test
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hoje estamos praticando git.");
             Console.WriteLine("Amanhã vai chover.");
+            Console.WriteLine("Lembrar de trazer guarda-chuva caso chova amanhã.");
         }
     }
 }
