@@ -14,6 +14,7 @@ namespace git_test
             Console.WriteLine("Hoje estamos praticando git.");
             Console.WriteLine("Amanhã vai chover.");
             Console.WriteLine("Lembrar de trazer guarda-chuva caso chova amanhã.");
+            Console.WriteLine("Finalmente esta dando certo.");
         }
     }
 }
